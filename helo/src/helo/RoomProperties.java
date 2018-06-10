@@ -3,7 +3,7 @@ package helo;
 public class RoomProperties {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//siddhesh--make class with name RoomMate with no of roommates,every  room mate name, age,education, native place, mob no. 
 
 	}
 
